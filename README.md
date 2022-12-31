@@ -1,11 +1,18 @@
 # Calculadora
 
- Projeto de uma calculadora basica
- ![preview](./previa.png)
- 
+![preview](./previa.png)
+
+
+ Projeto de uma calculadora básica !!!
+
+
 # Tecnologias 
 
--> HTML5 <br>
--> CSS3 <br>
--> JavaScript <br>
--> Git e Github
+- HTML <br>
+- CSS <br>
+- JavaScript <br>
+- Git e Github
+
+# Contato
+ 
+ 

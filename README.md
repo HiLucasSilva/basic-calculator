@@ -1,6 +1,11 @@
 # Calculadora
- Projeto de uma calculadora basica, utilizando:
+
+ Projeto de uma calculadora basica
  
+ 
+# Tecnologias 
+
 -> HTML5 <br>
 -> CSS3 <br>
--> JavaScript
+-> JavaScript <br>
+-> Git e Github

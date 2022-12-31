@@ -1,7 +1,7 @@
 # Calculadora
 
  Projeto de uma calculadora basica
- 
+ ![preview](./previa.png)
  
 # Tecnologias 
 

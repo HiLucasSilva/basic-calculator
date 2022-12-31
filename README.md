@@ -1,2 +1,11 @@
-# calculadora
- Projeto de uma calculadora basica, utilizando HTML5, CSS3 e JavaScript
+# Calculadora
+
+ Projeto de uma calculadora basica
+ 
+ 
+# Tecnologias 
+
+-> HTML5 <br>
+-> CSS3 <br>
+-> JavaScript <br>
+-> Git e Github
